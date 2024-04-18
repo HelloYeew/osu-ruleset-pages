@@ -11,7 +11,7 @@ git+https://github.com/Rurusetto/rurusetto-django-allauth.git
 django-colorfield~=0.10.1
 django-admin-interface~=0.26.0
 python-decouple~=3.8
-python-dateutil~=2.8.2
+python-dateutil~=2.9.0
 boto3~=1.28.10
 django-storages~=1.13
 gunicorn~=21.2.0
